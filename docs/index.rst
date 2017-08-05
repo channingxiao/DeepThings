@@ -14,7 +14,8 @@ Contents:
 
    *
 
-
+installations
+===============
 
 Indices and tables
 ==================
